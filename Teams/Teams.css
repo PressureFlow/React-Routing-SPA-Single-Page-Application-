@@ -1,0 +1,16 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-weight: 400;
+
+}
+
+.list li {
+    font-weight: 300;
+    font-style: italic;
+    padding: 20px 10px;
+}
+
